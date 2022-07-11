@@ -1,4 +1,9 @@
+// @ts-ignore
 import logo from './logo.svg';
+// @ts-ignore
+import { Button } from 'try-rollup';
+// @ts-ignore
+import { Button as TacklitButton } from '@tacklit/style-guide';
 import './App.css';
 
 function App() {
@@ -17,6 +22,8 @@ function App() {
         >
           Learn React
         </a>
+        <Button label="from try rollup" primary/>
+        <TacklitButton label="from try tacklit" primary/>
       </header>
     </div>
   );
