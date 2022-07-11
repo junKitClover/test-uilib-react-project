@@ -1708,10 +1708,10 @@
     "@svgr/plugin-svgo" "^5.5.0"
     loader-utils "^2.0.0"
 
-"@tacklit/style-guide@^0.1.4":
-  version "0.1.4"
-  resolved "https://npm.pkg.github.com/download/@tacklit/style-guide/0.1.4/51783b295eaa6c029800a67dfbf90d491938cb9d5e9edb80c9363fb35cd71aaa#06600198d103a1e71e66a7f53fcaea072baf9d61"
-  integrity sha512-encZpkuwzipfNavmWRbsR/6mRugPp3veNjlNTM9HfEb8NOlq/zuDgmptfh944hUa8EIgasVBkYHqvQi+JebD+g==
+"@tacklit/style-guide@0.1.1":
+  version "0.1.1"
+  resolved "https://npm.pkg.github.com/download/@tacklit/style-guide/0.1.1/7470c70c48ad8ebfbd25a1978983d7de6d726567346000f1f431ff4cc33453ea#460b9c8209ff79f7bc753042497bc77f1616fa2f"
+  integrity sha512-EzMptNIGgi2eA4reikR7OBEN2wH12dD40vBkUl+MljImJBpmdlM4KNKZpD0g+xPdVpbhxR1GcrTb4D4lFIMfJg==
   dependencies:
     "@testing-library/jest-dom" "^5.14.1"
     "@testing-library/react" "^13.0.0"
