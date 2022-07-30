@@ -1,6 +1,5 @@
 // @ts-ignore
 import logo from './logo.svg';
-// @ts-ignore
 import { Button, ThemeProvider, Header } from '@tacklit/style-guide';
 import './App.css';
 
